@@ -6,9 +6,12 @@ export const zh: NavbarConfig = [
     link: '/docs',
   },
   {
-    text: '项目',
-    link: '/projects',
+    text: '项目列表',
     children: [
+      {
+        text: '项目列表',
+        link: '/docs',
+      },
       {
         text: 'itdevwu\'s docs',
         link: '/docs',
@@ -20,7 +23,33 @@ export const zh: NavbarConfig = [
     ],
   },
   {
+    text: '社交',
+    children: [
+      {
+        text: 'GitHub',
+        link: 'https://github.com/itdevwu',
+      },
+      {
+        text: 'LinkedIn',
+        link: 'https://www.linkedin.com/in/zhenglong-wu/',
+      },
+    ],
+  },
+  {
     text: 'itdevwu',
-    link: 'https://www.itdevwu.com',
+    children: [
+      {
+        text: '主页',
+        link: 'https://www.itdevwu.com',
+      },
+      {
+        text: '博客',
+        link: 'https://blog.itdevwu.com',
+      },
+      {
+        text: '简历',
+        link: 'https://resume.itdevwu.com',
+      },
+    ]
   },
 ]

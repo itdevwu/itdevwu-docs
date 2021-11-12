@@ -7,8 +7,11 @@ export const en: NavbarConfig = [
   },
   {
     text: 'Projects',
-    link: '/en/projects',
     children: [
+      {
+        text: 'Project List',
+        link: '/en/projects',
+      },
       {
         text: 'itdevwu\'s docs',
         link: '/en/docs',
@@ -18,5 +21,35 @@ export const en: NavbarConfig = [
         link: '/en/BUPT-PSP',
       },
     ],
+  },
+  {
+    text: 'Social',
+    children: [
+      {
+        text: 'GitHub',
+        link: 'https://github.com/itdevwu',
+      },
+      {
+        text: 'LinkedIn',
+        link: 'https://www.linkedin.com/in/zhenglong-wu/',
+      },
+    ],
+  },
+  {
+    text: 'itdevwu',
+    children: [
+      {
+        text: 'Homepage',
+        link: 'https://www.itdevwu.com',
+      },
+      {
+        text: 'Blog',
+        link: 'https://blog.itdevwu.com',
+      },
+      {
+        text: 'Resume',
+        link: 'https://resume.itdevwu.com',
+      },
+    ]
   },
 ]
