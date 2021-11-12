@@ -84,6 +84,8 @@ export default defineUserConfig<DefaultThemeOptions>({
       '/en/': {
         // navbar
         navbar: navbar.en,
+        selectLanguageText: '选择语言',
+        selectLanguageAriaLabel: '选择语言',
 
         // sidebar
         sidebar: sidebar.en,
@@ -99,8 +101,8 @@ export default defineUserConfig<DefaultThemeOptions>({
         // navbar
         navbar: navbar.zh,
         selectLanguageName: '简体中文',
-        selectLanguageText: '选择语言',
-        selectLanguageAriaLabel: '选择语言',
+        selectLanguageText: 'Languages',
+        selectLanguageAriaLabel: 'Languages',
 
         // sidebar
         sidebar: sidebar.zh,
