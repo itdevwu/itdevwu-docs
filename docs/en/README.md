@@ -7,7 +7,7 @@ actions:
     link: /en/projects
     type: primary
   - text: Introduction
-    link: /itdevwu-docs/
+    link: /docs
     type: secondary
 features:
   - title: Simplicity First

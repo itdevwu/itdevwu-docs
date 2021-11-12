@@ -12,4 +12,4 @@ itdevwu Docs is used for maintaining itdevwu's docs.
 
 ## Usage
 
-You can check projects list in [/projects](/projects) and see their docs in detail later.
+You can check projects list in ["project list"](/projects) and see their docs in detail later.

@@ -4,4 +4,5 @@
 
 | 项目名称 | 简介 |
 | --- | --- |
-| [BUPT-PSP](/BUPT-PSP) | BUPT PSP 题解 |
+| [itdevwu's Docs](/docs) | 托管 itdevwu 的所有项目文档。 |
+| [BUPT-PSP](/BUPT-PSP) | BUPT PSP 题解。 |

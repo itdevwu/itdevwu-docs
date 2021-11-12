@@ -3,7 +3,7 @@ import type { NavbarConfig } from '@vuepress/theme-default'
 export const en: NavbarConfig = [
   {
     text: 'Guide',
-    link: '/itdevwu-docs/',
+    link: '/en/docs',
   },
   {
     text: 'Projects',
@@ -11,7 +11,7 @@ export const en: NavbarConfig = [
     children: [
       {
         text: 'itdevwu\'s docs',
-        link: '/en/itdevwu-docs',
+        link: '/en/docs',
       },
       {
         text: 'BUPT-PSP',

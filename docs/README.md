@@ -6,7 +6,7 @@ actions:
     link: /projects
     type: primary
   - text: 使用指南
-    link: /itdevwu-docs
+    link: /docs
     type: secondary
 features:
   - title: 简洁至上
