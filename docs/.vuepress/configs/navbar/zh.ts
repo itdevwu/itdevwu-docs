@@ -10,7 +10,7 @@ export const zh: NavbarConfig = [
     children: [
       {
         text: '项目列表',
-        link: '/docs',
+        link: '/projects',
       },
       {
         text: 'itdevwu\'s docs',
