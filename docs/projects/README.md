@@ -1,8 +1,9 @@
-# Project List
+# 项目列表
 
-Projects whose docs are maintained on [itdevwu Docs](/en).
+本文档列出了 [itdevwu Docs](/) 托管的所有项目及其简介的列表。
 
-| Project | Intro |
+| 项目名称 | 简介 |
 | --- | --- |
-| [itdevwu's Docs](/en/docs) | Hosting docs for itdevwu's projects. |
-| [BUPT-PSP](/en/BUPT-PSP) | Assignments' solution of "*Probability and Stochastic Processes*" of BUPT. |
+| [itdevwu's Docs](/docs) | 托管 itdevwu 的所有项目文档。 |
+| [BUPT-PSP](/BUPT-PSP) | BUPT PSP 题解。 |
+| [BUPT-data-structure](/en/BUPT-data-structure) | 北京邮电大学计算机专业“数据结构”课程实验/大作业。 |
