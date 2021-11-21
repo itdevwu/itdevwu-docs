@@ -20,6 +20,10 @@ export const en: NavbarConfig = [
         text: 'BUPT-PSP',
         link: '/en/BUPT-PSP',
       },
+      {
+        text: 'BUPT-data-structure',
+        link: '/en/BUPT-data-structure',
+      },
     ],
   },
   {

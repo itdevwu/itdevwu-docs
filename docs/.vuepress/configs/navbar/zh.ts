@@ -20,6 +20,10 @@ export const zh: NavbarConfig = [
         text: 'BUPT-PSP',
         link: '/BUPT-PSP',
       },
+      {
+        text: 'BUPT-data-structure',
+        link: '/BUPT-data-structure',
+      },
     ],
   },
   {
