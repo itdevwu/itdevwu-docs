@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkitdevwu_docs=self.webpackChunkitdevwu_docs||[]).push([[532],{4646:function(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"BUPT-data-structure"}')}}]);
