@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'itdevwu docs',
+  title: 'itdevwu Docs',
   // For i18n, the tagline parameter is not used.
   // To change the tagline, edit the "src/pages/index.js" file.
   tagline: '用🤞写代码，用❤️造 bug。',
@@ -130,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} itdevwu™.`,
+        copyright: `Copyright © 2021-${new Date().getFullYear()} itdevwu™.`,
       },
       prism: {
         theme: lightCodeTheme,
