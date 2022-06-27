@@ -64,7 +64,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'itdevwu docs',
+        title: 'itdevwu Docs',
         logo: {
           alt: 'itdevwu-logo',
           src: 'img/logo.svg',
@@ -94,7 +94,7 @@ const config = {
             title: '文档',
             items: [
               {
-                label: 'itdevwu docs',
+                label: 'itdevwu Docs',
                 to: '/docs',
               },
               {
@@ -130,6 +130,11 @@ const config = {
             ],
           },
         ],
+        logo: {
+          alt: 'itdevwu Opensource Logo',
+          src: '/img/itdevwu-opensource.svg',
+          href: 'https://docs.itdevwu.com',
+        },
         copyright: `Copyright © 2021-${new Date().getFullYear()} itdevwu™.`,
       },
       prism: {
